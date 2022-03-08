@@ -1,6 +1,6 @@
 package secondhomework;
 
-public class Proizvedenie {
+public class Poizvedenie{
     public static void main(String[] args) {
         int number = 25;
         long num1 = 1;
