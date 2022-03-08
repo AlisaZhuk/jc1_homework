@@ -1,6 +1,6 @@
 package firstmarch;
 
-public class Work2 {
+public class Work4 {
     public static void main (String[] args){
         byte b = 0x55;
         short s = 0x55ff;
