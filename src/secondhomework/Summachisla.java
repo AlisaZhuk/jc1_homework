@@ -5,9 +5,10 @@ public class Summachisla {
         String s="7893823445";
         String[] a = s.split("");
         int m=0;
-        for(int i=0;i<a.length;i++){
-            m+=Integer.parseInt(a[i]);
-        }
+        int i=0;
+       do { m+=Integer.parseInt(a[i]);
+           i++;
+       }while (i<a.length);
         System.out.println(m+"");
     }
 }
