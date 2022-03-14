@@ -16,6 +16,7 @@ public class Task15 {
                     break;
                 }
                 second = true;
+                System.out.println(x);
             }
         }
     }
